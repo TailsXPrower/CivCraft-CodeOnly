@@ -1,0 +1,49 @@
+name: CivCraft
+main: ru.tailsxcraft.civcraft.main.CivCraft
+softdepends: [TitleAPI]
+depends: [MythicMobs]
+version: 1.9.0
+api-version: 1.13
+commands:
+    town:
+        aliases: [t]
+    plot:
+        aliases: [p]
+    resident:
+        aliases: [res]
+    dbg:
+        aliases: []
+    accept:
+        aliases: [yes]
+    deny:
+        aliases: [no]
+    civ:
+        aliases:
+    tc:
+        aliases:
+    cc:
+        aliases:
+    ac:
+        aliases:
+    gc:
+        aliases:
+    ad:
+        aliases:
+    build:
+        aliases: [b]
+    market:
+        aliases: [m]
+    select:
+        aliases:
+    econ:
+        aliases: [money]
+    pay:
+        aliases:
+    here:
+        aliases:
+    camp:
+        aliases:
+    kill:
+        aliases:
+    sb:
+        aliases:
